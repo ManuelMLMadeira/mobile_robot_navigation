@@ -30,4 +30,4 @@ Inside the directory ***code***, you can find the computational implementation o
   
 
 
- We apologize for having some of the code comments in portuguese. 
+ We apologize for having some of the code comments in Portuguese. 
